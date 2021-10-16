@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.exampleautomation.testcases.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.6 sec - in com.exampleautomation.testcases.HomePageTest
